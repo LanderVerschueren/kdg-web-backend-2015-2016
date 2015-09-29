@@ -110,6 +110,6 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 ## Studenten
 
-- Naam
-	- email: e-mailadres
-	- GitHub: github-account
+- Naam: Lander Verschueren
+	- email: lander.verschueren@student.kdg.be
+	- GitHub: LanderVerschueren https://github.com/LanderVerschueren
